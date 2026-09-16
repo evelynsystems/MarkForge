@@ -14,20 +14,3 @@ WRITE • PREVIEW • FORGE • SHARE
 
 Desert Rat Software
 
-MarkForge License
-
-Copyright © 2026 Desert Rat Software. All rights reserved.
-
-MarkForge is provided free of charge for personal and commercial use.
-
-You may use MarkForge to create, edit, export, build, and package your own projects and applications.
-
-You may not copy, modify, redistribute, sell, sublicense, reverse engineer, or claim ownership of MarkForge or its source code without written permission from Desert Rat Software.
-
-Projects, documents, applications, and other content created or packaged using MarkForge remain the property of their respective creators. Desert Rat Software claims no ownership over content created with MarkForge.
-
-MarkForge is provided “as is” without warranties of any kind. Desert Rat Software is not responsible for data loss, damages, software failures, or other issues resulting from the use of MarkForge.
-
-MarkForge and associated branding are property of Desert Rat Software.
-
-Copyright © 2026 Desert Rat Software. All rights reserved.
